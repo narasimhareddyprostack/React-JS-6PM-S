@@ -1,0 +1,48 @@
+JS  Library UI - single Page Application.
+
+SPA?
+
+Mutliple Page?
+https://www.greetlabs.com/index.php
+tcs.com
+
+One Page?
+
+React Js / Angular / Vue Js - SPA
+-----------------------------------------
+Why React JS?
+Component Based Architecture?
+-----------------------------
+-->UI is divided into reusable components
+-->Easier to maintain,test and build scalable appliable.
+-->clean and modular code.
+
+Declarative UI?
+----------------
+we describe UI  <Header/> <Footer/> <CreateProduct/>
+React automatically update the UI when data changes
+
+
+Leanr once,write any where?
+JS - React Js(Web UI)
+   - React Native(Android and IOS)
+
+
+
+https://react.dev/
+https://legacy.reactjs.org/
+https://reactnative.dev/
+
+React JS - Meta/Facebook
+Strong Ecosystem and community support
+Easy to Integrate
+SEO&Mobile Support 
+Next.js/SSR
+========================================
+SPA?
+
+Pre-Requesties
+----------------
+JS, JS ES6 Features
+
+================================================
