@@ -46,3 +46,62 @@ Pre-Requesties
 JS, JS ES6 Features
 
 ================================================
+Installation: 
+1.npm/npx commands
+2.vite - Frontend tooling
+3.CDN Links
+
+
+npx create-react-app react6
+cd react6
+npm start
+============================
+Vite
+npm create vite@latest
+
+
+Node JS
+-----------
+node - JS Runtime 
+npm  - command to install JS dependency/package 
+       from npmjs.com(Global JS Registry)
+
+node package manager
+
+npm vs npx(npm runner)
+============================
+React Application flow and Project Folder Strcutrure
+
+Reac Js - Learning Road Map?
+1)React Intro - SPA and Building UI.
+2)Installtion
+3)Application Flow and Project/Folder Structure
+4)React Component Deep Drive
+5)React Styling
+6)JSX
+7)React Props
+8)React State. How to manage state(class vs functional)
+9)Props Drilling, Context API
+10)React Event Handling/Event Binding
+11)React Conditional Rendering/List Rendering
+12)React Class component Life Cycle Methods
+13)React Routing
+14)React Axios/HTTP
+15)React Hooks
+  a)useState()
+  b)useEffect()
+  c)useReducer()
+  d)useMemo()
+  e)useCallback()
+  f)useRef
+  g)useParams()
+  h)useSelector()
+  i)useDispatch
+16)React Redux and Redux Toolkit
+17)MERN Product App
+18)ContactApp/User APP
+
+
+Class-2
+--------
+React Application Flow and Project Structure

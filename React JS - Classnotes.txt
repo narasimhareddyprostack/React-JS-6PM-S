@@ -100,3 +100,14 @@ Reac Js - Learning Road Map?
 16)React Redux and Redux Toolkit
 17)MERN Product App
 18)ContactApp/User APP
+
+
+Class-2
+--------
+React Application Flow and Project Structure
+
+npm start? starting react Development Server
+
+index.html --> React Appl template File
+index.js   --> React Appl main file 
+App.jsx    --> React Application Root component
