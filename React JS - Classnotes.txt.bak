@@ -105,3 +105,51 @@ Reac Js - Learning Road Map?
 Class-2
 --------
 React Application Flow and Project Structure
+
+npm start? starting react Development Server
+
+index.html --> React Appl template File
+index.js   --> React Appl main file 
+App.jsx    --> React Application Root component
+========================================
+component? describe UI
+How to describe UI?
+to describe ui? return UI.
+
+functional component  or class component
+
+Header.jsx
+----------
+function Header(){
+
+return <div>
+        <h3>Header Component</h3>
+       </div>
+}
+
+class component?
+
+Navbar.jsx
+-------------
+class Navbar{
+
+
+
+}
+export default Navbar;
+
+Props 
+State
+=====
+What is react Props? Properties
+To maintain communication b/w component? 
+we are using props.
+send data from one component to another component?
+
+What is data?
+
+How to read data/variable?
+{}  - react expression.
+
+{{}} - Angular interpolation.
+
