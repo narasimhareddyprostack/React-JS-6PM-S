@@ -1,12 +1,11 @@
 import React from 'react'
-import Message from './EventBiding/Message'
-import Users from './rending/Users'
+import Message from './message/Message';
+import Counter from './message/Counter';
 const App = () => {
-
  return <>
             <h3>App Component</h3>
             <hr/>
-            <Users/>
+            <Counter/>
             
         </>
 }
